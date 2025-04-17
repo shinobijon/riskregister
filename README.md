@@ -3,3 +3,7 @@ A simple program that allows a mission organization to input risk variables, the
 
 
 ![Overview diagram](images/riskregister.png)
+
+![Overview diagram](images/dataentry.png)
+
+![Overview diagram](images/riskheatmap.png)
